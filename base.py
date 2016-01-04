@@ -1,7 +1,4 @@
-## New Lines........
 print "Hi"
-
-
 from cafe.engine.models.base import AutoMarshallingModel
 
 
